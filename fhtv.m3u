@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="FHTV Stream (source)" tvg-logo="" group-title="Full House TV",FHTV Stream 24/7IA
+#EXTINF:-1 tvg-id="" tvg-name="FHTV Stream (IA H.264)" tvg-logo="" group-title="Full House TV",FHTV Stream 24/7 (IA H.264)
 https://ia800606.us.archive.org/14/items/fhtv-stream-3/Fhtv%20Stream%283%29.ia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FHTV Stream (H.264 IA)" tvg-logo="" group-title="Full House TV2",FHTV Stream 24/7
+#EXTINF:-1 tvg-name="FHTV Stream (Source MP4)" tvg-id="" tvg-logo="" group-title="Full House TV",FHTV Stream 24/7 (Source MP4)
 https://archive.org/download/fhtv-stream-3/Fhtv%20Stream%283%29.mp4
